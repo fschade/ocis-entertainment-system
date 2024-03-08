@@ -17,8 +17,6 @@ const { url } = defineProps({
 .arcade {
   display: grid;
   place-items: center;
-  background-image: url('bg.jpg');
-  background-size: cover;
 }
 
 .screen {

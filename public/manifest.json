@@ -1,0 +1,5 @@
+{
+	"id": "com.github.fschade.ocis.gamestation",
+	"entrypoint": "extension.js",
+	"config": {}
+}
